@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1521810166 source:d:\資料(1070122建立)\stream algo\streamhw1\main.cpp
+	"io.h"
+	<string>
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<algorithm>
+
